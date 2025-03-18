@@ -15,7 +15,7 @@ Os prints abaixo mostram o funcionamento do sorteio:
 
 ### Realizando o Sorteio  
 ![Sorteio em ação](img/sorteio.png)
-![Passo a passo como realizar o sorteio](img/passo-a-passo.mp4)
+![Passo a passo como realizar o sorteio](img/passo-a-passo.gif)
 
 ## ⚙️ Tecnologias  
 🔹 **Linguagens utilizadas:** JavaScript, HTML e CSS  
